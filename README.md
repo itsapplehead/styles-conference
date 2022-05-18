@@ -1,4 +1,3 @@
-# styles-conference
- using only html/css; 
+# Styles Conference
 
 https://itsapplehead.github.io/styles-conference/
